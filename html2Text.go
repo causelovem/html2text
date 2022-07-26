@@ -1,4 +1,4 @@
-package html2Text
+package html2text
 
 import (
 	"strings"
